@@ -187,3 +187,15 @@
 ## ER-диаграмма
 
 ![ERD-diagram](ERD.png)
+
+## C4 model
+
+### C1 - System Context
+
+![c1](c1.png)
+
+### C2 - Containers
+
+![c2](c2.png)
+
+
