@@ -198,4 +198,6 @@
 
 ![c2](c2.png)
 
+## Sequense Diagram
 
+![SequenceDiagram](sequence.png)
