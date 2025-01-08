@@ -205,5 +205,5 @@
 # Swagger
 
 <ol>
-<p>Код можно глянуть [тут](openapi.yaml)</p>	
+<p>Код можно глянуть [тут](./openapi.yaml)</p>	
 </ol>
